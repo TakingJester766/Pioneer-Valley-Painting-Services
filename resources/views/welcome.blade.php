@@ -10,14 +10,14 @@
         
 
         <!-- Styles -->
-        <link rel="stylesheet" type="text/css" href="../resources/css/app.css" />
+        <link rel="stylesheet" type="text/css" href="../css/app.css" />
 
 
         
     </head>
     <body>
     <div id="header">
-      <img class="logo" src="images/PVPSlogowhite.jpg">
+      <img class="logo" src="../images/PVPSlogowhite.jpg">
       <div class="menu">
         <h1>Pioneer Valley Painting Services</h1>
         <ul class="menubar">
@@ -54,7 +54,7 @@
           </div>
           <div class="middle">
             <div class="header_wrapper">
-              <img class="check" src="images/check.png">
+              <img class="check" src="../images/check.png">
               <h1>Satisfaction Guaranteed</h1>
             </div>
             <br>
@@ -62,7 +62,7 @@
           </div>
           <div class="right">
             <div class="header_wrapper">
-              <img class="check" src="images/check.png">
+              <img class="check" src="../images/check.png">
               <h1>Customer Service</h1>
             </div>
             <br>
