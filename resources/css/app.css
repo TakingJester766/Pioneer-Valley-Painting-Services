@@ -6,6 +6,24 @@ body {
 	margin: 0;
 }
 
+#title {
+	background-color: darkred;
+	height: 100px;
+	margin-bottom: 5px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	position: relative;
+}
+
+@media (max-width: 767px) {
+	#header .logo {
+	  max-width: 50%; /* This sets the maximum width of the logo to 50% of the header's width for screens smaller than 767px */
+	}
+  }
+  
+
 #header {
 	background-color: darkred;
 	height: 100px;
@@ -14,6 +32,7 @@ body {
 	top: 0;
 	left: 0;
 	right: 0;
+	position: relative;
 }
 
 #header .menu {
@@ -29,12 +48,13 @@ body {
 }
 
 #header .logo {
-	float: left;
+	max-width: 20%; /* This sets the maximum width of the logo to 20% of the header's width */
+	height: auto;
 	object-fit: contain;
-	height: 86%;
-	margin: 4px;
 	position: absolute;
-	border: 1px solid #000;
+	top: 0;
+	left: 0;
+	margin: 10px;
 }
 
 #header .menu .menubar {

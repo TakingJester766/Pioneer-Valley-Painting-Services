@@ -19,7 +19,7 @@
     <div id="header">
       <img class="logo" src="../images/PVPSlogowhite.jpg">
       <div class="menu">
-        <h1>Pioneer Valley Painting Services</h1>
+        <h1 id="title">Pioneer Valley Painting Services</h1>
         <ul class="menubar">
           <li><a href="index.html"><span>Home</span></a></li>
           <li><a href="services.html"><span>Services</span></a></li>
