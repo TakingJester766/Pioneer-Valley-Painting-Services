@@ -35,7 +35,36 @@
     </div>
     <div id="body">
       <div class="bodywrap">
-        
+      <img class="house" src="../images/house.jpg">
+        <div class="row">
+          <div class="column left">
+            <h3>Gallery</h3>
+          </div>
+          <div class="column middle">
+            <h2>Hire The Right Painters For your Job</h2>
+            <p>See why Pioneer Valley Painting is regarded as the top painting service in Western Mass. We are fully licensed and insured, with full Liability and Workers' Compensation Insurance. Quality and satisfaction are our top priorities, and we go the extra mile to ensure that you are fully satisfied with our work. To schedule a free, no obligation estimate, please call or text <strong>(413)207-5305</strong> or email <strong>estimates@pioneervalleypainting.com</strong> </p>
+            <button><a href="contact.html"><span>Schedule a Free Estimate Today</span></a></button>
+          </div>
+          <div class="column right">
+            <h3>We Do:</h3>
+            <ul>
+              <br>
+              <li><span>Exterior Painting</span></li>
+              <br>
+              <li><span>Interior Painting</span></li>
+              <br>
+              <li><span>Staining</span></li>
+              <br>
+              <li><span>Pressure Washing</span></li>
+              <br>
+              <li><span>Minor Carpentry</span></li>
+              <br>
+              <li><span>Drywall Repair</span></li>
+              <br>
+              <li><span>Ask Us About Other Jobs!</span></li>
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
     <div id="footer">
